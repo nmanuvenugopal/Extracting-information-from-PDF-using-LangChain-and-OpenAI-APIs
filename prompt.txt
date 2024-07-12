@@ -1,0 +1,15 @@
+Please read and analyze the following text containing hospital information (doc_text). Your task is to extract the relevant details and create a JSON dictionary with the following keys:
+
+- Hospital name
+- Address
+- City
+- State
+- Zip code
+- Contact number
+- Email Address
+- Website
+
+Ensure the output is formatted as a JSON dictionary. The response should contain only the JSON dictionary and no additional text.
+
+Here is the text for analysis:
+(doc_text)
